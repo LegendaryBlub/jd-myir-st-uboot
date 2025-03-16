@@ -1,2 +1,0 @@
-"/media/home/beste/03_toolchain/ld25x/sysroots/x86_64-ostl_sdk-linux/usr/bin/aarch64-ostl-linux/aarch64-ostl-linux-gcc-ar" cr libfoo.a CMakeFiles/foo.dir/foo.c.obj
-"/media/home/beste/03_toolchain/ld25x/sysroots/x86_64-ostl_sdk-linux/usr/bin/aarch64-ostl-linux/aarch64-ostl-linux-gcc-ranlib" libfoo.a

@@ -1,8 +1,0 @@
-# Hashes of file build rules.
-6b4a3347f698ccd681d2da7eb916b2cd CMakeFiles/check
-c4702b88e22d9a8a1d92c5cbe5f4cd55 CMakeFiles/check-c
-aab9eb5d291ef5a257b28f4fa77aecfa CMakeFiles/check-yaml
-6b4a3347f698ccd681d2da7eb916b2cd CMakeFiles/format
-710d5eed28e67220da43031f467900fd CMakeFiles/format-yaml
-41a188b65121fadb7974ff20bdb68dd0 CMakeFiles/scmi-fw-all
-5f2e3a8a2ab53029a81eb7084eba9eaf doc/CMakeFiles/doc
