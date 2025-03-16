@@ -1,0 +1,13 @@
+/*
+ * This file is auto generated with
+ * scripts/render_font.py --font_file lib/libutee/tui/fonts/amble/Amble-Bold.ttf --font_size 20 --font_name default_bold --out_dir ../build/myb-stm32mp257x-2GB-ca35tdcid-ostl/ta_arm64-lib/libutee/tui
+ * do not edit.
+ */
+#ifndef __DEFAULT_BOLD_H
+#define __DEFAULT_BOLD_H
+
+#include "font.h"
+
+extern const struct font font_default_bold;
+
+#endif /*__DEFAULT_BOLD_H*/

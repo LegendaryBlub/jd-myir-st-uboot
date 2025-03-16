@@ -1,0 +1,5 @@
+../build/myb-stm32mp257x-2GB-ca35tdcid-ostl/core/arch/arm/dts/myb-stm32mp257x-2GB-ca35tdcid-ostl.o: \
+ ../build/myb-stm32mp257x-2GB-ca35tdcid-ostl/core/arch/arm/dts/myb-stm32mp257x-2GB-ca35tdcid-ostl.c \
+ ../build/myb-stm32mp257x-2GB-ca35tdcid-ostl/include/generated/conf.h \
+ lib/libutils/ext/include/compiler.h lib/libutils/isoc/include/stdint.h \
+ lib/libutils/isoc/include/limits.h

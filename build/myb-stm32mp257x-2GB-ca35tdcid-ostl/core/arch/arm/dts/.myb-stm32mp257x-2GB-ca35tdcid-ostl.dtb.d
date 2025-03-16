@@ -1,0 +1,1 @@
+../build/myb-stm32mp257x-2GB-ca35tdcid-ostl/core/arch/arm/dts/myb-stm32mp257x-2GB-ca35tdcid-ostl.dtb: ../build/myb-stm32mp257x-2GB-ca35tdcid-ostl/core/arch/arm/dts/myb-stm32mp257x-2GB-ca35tdcid-ostl.pre.dts

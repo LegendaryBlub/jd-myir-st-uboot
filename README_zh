@@ -1,0 +1,39 @@
+# MYD-LD25X Uboot 一键编译脚本
+
+本目录包含了一个名为myir-st-u-boot的目录，其中包含了uboot相关的源码，以及一个一键自动编译脚本build-uboot-zh.sh，可以在执行后编译其中的源码，并通过fip工具以及optee和atf这些打包为fip文件，最后输出的文件保存在同级目录下的output中。
+
+
+## 包含文件说明
+
+- 源码目录名称：myir-st-u-boot
+- 一键编译脚本名称：build-uboot-zh.sh
+
+## 使用方法
+
+1. 确保源码目录存在并且目录名正确，并且首先声明LD25X的交叉编译链
+
+$: source ~/Toolchain/LD25X/environment-setup-cortexa35-ostl-linux
+
+2. 按照以下命令执行脚本,等待编译完成
+
+$: ./build-uboot-zh.sh
+
+3. 输出文件保存在同级目录的output中，执行以下命令查看
+
+$: ls output/ -l
+
+## 注意事项
+
+- 请确保您的运行环境为Uboot环境，推荐使用Ubuntu。
+- 如果您遇到任何问题或需要进一步的帮助，请参阅附带的文档或联系我们的技术支持团队。
+
+## 联系方式
+
+如有任何问题或疑问，请联系我们的技术支持团队：
+
+- 公司名称：深圳市米尔电子有限公司
+- 技术支持邮箱： support.cn@myir.cn
+- 技术支持电话：0755-22316235
+
+
+

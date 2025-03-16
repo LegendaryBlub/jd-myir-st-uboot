@@ -1,0 +1,23 @@
+../build/myb-stm32mp257x-2GB-ca35tdcid-ostl/ta/remoteproc/src/elf_parser.o: \
+ ta/remoteproc/src/elf_parser.c \
+ ../build/myb-stm32mp257x-2GB-ca35tdcid-ostl/include/generated/conf.h \
+ ../build/myb-stm32mp257x-2GB-ca35tdcid-ostl/export-ta_arm64/include/assert.h \
+ ../build/myb-stm32mp257x-2GB-ca35tdcid-ostl/export-ta_arm64/include/compiler.h \
+ ../build/myb-stm32mp257x-2GB-ca35tdcid-ostl/export-ta_arm64/include/trace.h \
+ /media/home/beste/03_toolchain/ld25x/sysroots/x86_64-ostl_sdk-linux/usr/lib/aarch64-ostl-linux/gcc/aarch64-ostl-linux/12.3.0/include/stdarg.h \
+ /media/home/beste/03_toolchain/ld25x/sysroots/x86_64-ostl_sdk-linux/usr/lib/aarch64-ostl-linux/gcc/aarch64-ostl-linux/12.3.0/include/stdbool.h \
+ /media/home/beste/03_toolchain/ld25x/sysroots/x86_64-ostl_sdk-linux/usr/lib/aarch64-ostl-linux/gcc/aarch64-ostl-linux/12.3.0/include/stddef.h \
+ ../build/myb-stm32mp257x-2GB-ca35tdcid-ostl/export-ta_arm64/include/trace_levels.h \
+ ta/remoteproc/src/elf_parser.h \
+ ../build/myb-stm32mp257x-2GB-ca35tdcid-ostl/export-ta_arm64/include/elf32.h \
+ ../build/myb-stm32mp257x-2GB-ca35tdcid-ostl/export-ta_arm64/include/elf_common.h \
+ ../build/myb-stm32mp257x-2GB-ca35tdcid-ostl/export-ta_arm64/include/stdint.h \
+ ../build/myb-stm32mp257x-2GB-ca35tdcid-ostl/export-ta_arm64/include/limits.h \
+ ../build/myb-stm32mp257x-2GB-ca35tdcid-ostl/export-ta_arm64/include/tee_api_types.h \
+ ../build/myb-stm32mp257x-2GB-ca35tdcid-ostl/export-ta_arm64/include/inttypes.h \
+ ../build/myb-stm32mp257x-2GB-ca35tdcid-ostl/export-ta_arm64/include/tee_api_defines.h \
+ ../build/myb-stm32mp257x-2GB-ca35tdcid-ostl/export-ta_arm64/include/string.h \
+ ../build/myb-stm32mp257x-2GB-ca35tdcid-ostl/export-ta_arm64/include/sys/cdefs.h \
+ ../build/myb-stm32mp257x-2GB-ca35tdcid-ostl/export-ta_arm64/include/types_ext.h \
+ ../build/myb-stm32mp257x-2GB-ca35tdcid-ostl/export-ta_arm64/include/unistd.h \
+ ../build/myb-stm32mp257x-2GB-ca35tdcid-ostl/export-ta_arm64/include/util.h

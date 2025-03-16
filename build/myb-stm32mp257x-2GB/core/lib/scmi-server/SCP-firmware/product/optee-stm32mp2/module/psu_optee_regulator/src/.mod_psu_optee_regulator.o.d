@@ -1,0 +1,48 @@
+/media/home/beste/01_Pro/ld25x/bsp_hu/MYD-LD25X-Uboot-L2022.10-V1.0.0/GEN_FIP/myir-st-optee/../build/myb-stm32mp257x-2GB/core/lib/scmi-server/SCP-firmware/product/optee-stm32mp2/module/psu_optee_regulator/src/mod_psu_optee_regulator.o: \
+ core/lib/scmi-server/SCP-firmware/product/optee-stm32mp2/module/psu_optee_regulator/src/mod_psu_optee_regulator.c \
+ /media/home/beste/01_Pro/ld25x/bsp_hu/MYD-LD25X-Uboot-L2022.10-V1.0.0/GEN_FIP/myir-st-optee/../build/myb-stm32mp257x-2GB/include/generated/conf.h \
+ /media/home/beste/03_toolchain/ld25x/sysroots/x86_64-ostl_sdk-linux/usr/lib/aarch64-ostl-linux/gcc/aarch64-ostl-linux/12.3.0/include/stddef.h \
+ core/lib/scmi-server/SCP-firmware/framework/include/fwk_log.h \
+ core/lib/scmi-server/SCP-firmware/framework/include/fwk_attributes.h \
+ core/lib/scmi-server/SCP-firmware/framework/include/fwk_macros.h \
+ core/lib/scmi-server/SCP-firmware/framework/include/fwk_io.h \
+ core/lib/scmi-server/SCP-firmware/framework/include/fwk_assert.h \
+ core/lib/scmi-server/SCP-firmware/framework/include/fwk_noreturn.h \
+ /media/home/beste/03_toolchain/ld25x/sysroots/x86_64-ostl_sdk-linux/usr/lib/aarch64-ostl-linux/gcc/aarch64-ostl-linux/12.3.0/include/stdnoreturn.h \
+ lib/libutils/isoc/include/assert.h lib/libutils/ext/include/compiler.h \
+ lib/libutils/ext/include/trace.h \
+ /media/home/beste/03_toolchain/ld25x/sysroots/x86_64-ostl_sdk-linux/usr/lib/aarch64-ostl-linux/gcc/aarch64-ostl-linux/12.3.0/include/stdarg.h \
+ /media/home/beste/03_toolchain/ld25x/sysroots/x86_64-ostl_sdk-linux/usr/lib/aarch64-ostl-linux/gcc/aarch64-ostl-linux/12.3.0/include/stdbool.h \
+ lib/libutils/ext/include/trace_levels.h \
+ core/lib/scmi-server/SCP-firmware/framework/include/fwk_id.h \
+ core/lib/scmi-server/SCP-firmware/framework/include/internal/fwk_id.h \
+ lib/libutils/isoc/include/stdint.h lib/libutils/isoc/include/limits.h \
+ core/lib/scmi-server/SCP-firmware/framework/include/fwk_status.h \
+ core/lib/scmi-server/SCP-firmware/product/optee-stm32mp2/include/fmw_io.h \
+ /media/home/beste/01_Pro/ld25x/bsp_hu/MYD-LD25X-Uboot-L2022.10-V1.0.0/GEN_FIP/myir-st-optee/../build/myb-stm32mp257x-2GB/core/lib/scmi-server/build/framework/include/fwk_module_idx.h \
+ core/lib/scmi-server/SCP-firmware/product/optee-stm32mp2/include/fmw_log.h \
+ core/lib/scmi-server/SCP-firmware/framework/include/fwk_mm.h \
+ lib/libutils/isoc/include/stdlib.h lib/libutils/isoc/include/malloc.h \
+ lib/libutils/ext/include/types_ext.h \
+ lib/libutils/isoc/include/inttypes.h lib/libutils/isoc/include/unistd.h \
+ lib/libutils/isoc/include/string.h lib/libutils/isoc/include/sys/cdefs.h \
+ core/lib/scmi-server/SCP-firmware/framework/include/fwk_module.h \
+ core/lib/scmi-server/SCP-firmware/framework/include/fwk_element.h \
+ core/lib/scmi-server/SCP-firmware/framework/include/fwk_event.h \
+ core/lib/scmi-server/SCP-firmware/framework/include/internal/fwk_event.h \
+ core/lib/scmi-server/SCP-firmware/framework/include/fwk_align.h \
+ /media/home/beste/03_toolchain/ld25x/sysroots/x86_64-ostl_sdk-linux/usr/lib/aarch64-ostl-linux/gcc/aarch64-ostl-linux/12.3.0/include/stdalign.h \
+ core/lib/scmi-server/SCP-firmware/framework/include/fwk_list.h \
+ core/lib/scmi-server/SCP-firmware/framework/include/fwk_dlist.h \
+ core/lib/scmi-server/SCP-firmware/framework/include/fwk_slist.h \
+ core/lib/scmi-server/SCP-firmware/module/psu/include/mod_psu.h \
+ core/lib/scmi-server/SCP-firmware/product/optee-stm32mp2/module/psu_optee_regulator/include/mod_psu_optee_regulator.h \
+ core/lib/scmi-server/SCP-firmware/module/scmi/include/mod_scmi_std.h \
+ lib/libutils/ext/include/config.h core/include/drivers/regulator.h \
+ lib/libutils/isoc/include/sys/queue.h \
+ lib/libutee/include/tee_api_types.h \
+ lib/libutee/include/tee_api_defines.h lib/libutils/ext/include/util.h \
+ core/include/io.h core/arch/arm/include/kernel/delay.h \
+ core/arch/arm/include/arm.h core/arch/arm/include/arm64.h \
+ lib/libutee/include/utee_defines.h \
+ lib/libutee/include/tee_api_defines_extensions.h

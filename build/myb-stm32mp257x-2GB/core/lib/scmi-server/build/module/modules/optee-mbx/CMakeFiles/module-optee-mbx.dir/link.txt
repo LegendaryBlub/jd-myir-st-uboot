@@ -1,0 +1,2 @@
+/media/home/beste/03_toolchain/ld25x/sysroots/x86_64-ostl_sdk-linux/usr/bin/aarch64-ostl-linux/aarch64-ostl-linux-ar qc libmodule-optee-mbx.a "CMakeFiles/module-optee-mbx.dir/src/mod_optee_mbx.c.obj"
+/media/home/beste/03_toolchain/ld25x/sysroots/x86_64-ostl_sdk-linux/usr/bin/aarch64-ostl-linux/aarch64-ostl-linux-ranlib libmodule-optee-mbx.a

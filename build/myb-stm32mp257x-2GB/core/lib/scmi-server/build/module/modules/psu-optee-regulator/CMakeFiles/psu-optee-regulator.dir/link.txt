@@ -1,0 +1,2 @@
+/media/home/beste/03_toolchain/ld25x/sysroots/x86_64-ostl_sdk-linux/usr/bin/aarch64-ostl-linux/aarch64-ostl-linux-ar qc libpsu-optee-regulator.a "CMakeFiles/psu-optee-regulator.dir/src/mod_psu_optee_regulator.c.obj"
+/media/home/beste/03_toolchain/ld25x/sysroots/x86_64-ostl_sdk-linux/usr/bin/aarch64-ostl-linux/aarch64-ostl-linux-ranlib libpsu-optee-regulator.a

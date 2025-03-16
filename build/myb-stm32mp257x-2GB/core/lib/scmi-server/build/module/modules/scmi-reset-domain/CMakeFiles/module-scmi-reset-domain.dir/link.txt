@@ -1,0 +1,2 @@
+/media/home/beste/03_toolchain/ld25x/sysroots/x86_64-ostl_sdk-linux/usr/bin/aarch64-ostl-linux/aarch64-ostl-linux-ar qc libmodule-scmi-reset-domain.a "CMakeFiles/module-scmi-reset-domain.dir/src/mod_scmi_reset_domain.c.obj"
+/media/home/beste/03_toolchain/ld25x/sysroots/x86_64-ostl_sdk-linux/usr/bin/aarch64-ostl-linux/aarch64-ostl-linux-ranlib libmodule-scmi-reset-domain.a

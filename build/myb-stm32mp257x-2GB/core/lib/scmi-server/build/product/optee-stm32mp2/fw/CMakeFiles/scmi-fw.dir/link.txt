@@ -1,0 +1,2 @@
+/media/home/beste/03_toolchain/ld25x/sysroots/x86_64-ostl_sdk-linux/usr/bin/aarch64-ostl-linux/aarch64-ostl-linux-ar qc libscmi-fw.elf "CMakeFiles/scmi-fw.dir/config_all.c.obj"
+/media/home/beste/03_toolchain/ld25x/sysroots/x86_64-ostl_sdk-linux/usr/bin/aarch64-ostl-linux/aarch64-ostl-linux-ranlib libscmi-fw.elf

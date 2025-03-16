@@ -1,0 +1,2 @@
+/media/home/beste/03_toolchain/ld25x/sysroots/x86_64-ostl_sdk-linux/usr/bin/aarch64-ostl-linux/aarch64-ostl-linux-ar qc libarch-optee.a "CMakeFiles/arch-optee.dir/src/arch_interrupt.c.obj" "CMakeFiles/arch-optee.dir/src/arch_main.c.obj"
+/media/home/beste/03_toolchain/ld25x/sysroots/x86_64-ostl_sdk-linux/usr/bin/aarch64-ostl-linux/aarch64-ostl-linux-ranlib libarch-optee.a

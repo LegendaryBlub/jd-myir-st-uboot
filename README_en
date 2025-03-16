@@ -1,0 +1,38 @@
+# MYD-LD25X Uboot One-Click Build Script
+This directory contains a folder named myir-st-u-boot, which includes the source code related to uboot and a one-click build script build-uboot-zh.sh. Running this script will compile the source code, package it into a fip file using the fip tool, optee, and atf, and save the resulting files in the output directory at the same level.
+
+
+## Included Files Description
+
+Source Code Directory Name: myir-st-u-boot
+One-Click Build Script Name: build-uboot-zh.sh
+
+## Usage Instructions
+
+1. Ensure that the source code directory exists and has the correct name, and first declare the LD25X cross-compilation toolchain:
+
+$ source ~/Toolchain/LD25X/environment-setup-cortexa35-ostl-linux
+
+2. Execute the script with the following command and wait for the compilation to complete:
+
+$ ./build-uboot-zh.sh
+
+3. The output files will be saved in the output directory at the same level. To view them, run:
+
+$ ls output/ -l
+
+## Notes
+
+Please ensure your environment is set up for Uboot; Ubuntu is recommended.
+If you encounter any issues or need further assistance, please refer to the accompanying documentation or contact our technical support team.
+
+## Contact Information
+
+For any questions or issues, please contact our technical support team:
+
+Company Name: Shenzhen MYIR Electronics Co., Ltd.
+Technical Support Email: support.cn@myir.cn
+Technical Support Phone: 0755-22316235
+
+
+
